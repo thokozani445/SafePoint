@@ -302,20 +302,3 @@ If you're stuck, check:
 1. Browser Console (F12) for error messages
 2. Supabase logs (Dashboard → Logs)
 3. This README troubleshooting section
-
-### Monday Morning Panic
-- Use screen recording as backup
-- Have screenshots ready
-- Can demo from localhost if wifi fails
-
----
-
-## 🏆 You've Got This!
-
-Remember:
-- ✨ The idea is innovative and impactful
-- 💻 The tech is solid and functional
-- 🎯 Focus on the story, not perfection
-- ❤️ You're solving a real problem that matters
-
-**Good luck with the hackathon! 🚀**
