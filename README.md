@@ -139,6 +139,7 @@ Open your browser to **http://localhost:3000** 🎉
 ---
 
 ## 🎯 Testing the Demo
+Demo_link:  https://safepoint-teekay.vercel.app/ 
 
 ### Test Flow 1: Staff App
 1. Click **"Staff Login"**
